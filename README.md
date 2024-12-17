@@ -10,7 +10,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQH4ngIGQY-bSw/company-logo_100_100/0/1685625876675/mercado_bitcoin_logo?e=1717027200&v=beta&t=MNu8Av1_JveFYAZmfIGZ74H-lOuXa9ztwK_03GULrjg"/>](https://ciandt.com/br/pt-br/home)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://static.mercadobitcoin.com.br/web/img/logos/mb/logo-icon-color.svg"/>](https://ciandt.com/br/pt-br/home)
 
 **Senior Software Engineer** \
 [**Mercado Bitcoin**](https://www.mercadobitcoin.com.br/) • Full-time \
